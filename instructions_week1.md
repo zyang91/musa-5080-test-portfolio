@@ -9,6 +9,11 @@ By the end of this setup, you'll have:
 -  live website showcasing your work
 - A place to document your learning journey
 
+## Example:
+
+- This is what you are building: **[Dr. Delmelle's sample portfolio](https://ecdelmelle.github.io/MUSA-5080-instructor-portfolio/)** 
+  
+
 ## Prerequisites
 
 Before starting, make sure you have:
@@ -85,7 +90,7 @@ cd [your-repository-name]
 
 ### Make Changes and Preview
 ```bash
-# Edit your files using RStudio or your preferred editor
+# Edit your files using RStudio
 # Preview your changes:
 quarto render
 quarto preview
