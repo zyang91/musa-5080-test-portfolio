@@ -16,8 +16,6 @@ This template helps you create a professional portfolio for Public Policy Analyt
 ## Weekly Notes
 Create a new file `weekly-notes/week-XX-notes.qmd` for each week.
 
-## Rendering Your Site
-```bash
-# In terminal/command line:
-quarto render# student-portfolio-template
-Template repository for MUSA 5080 student portfolios
+### Example Portfolio
+See what you're building toward: **[Dr. Delmelle's Sample Portfolio](https://ecdelmelle.github.io/MUSA-5080-instructor-portfolio/)**
+
