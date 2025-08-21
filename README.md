@@ -17,5 +17,5 @@ This template helps you create a professional portfolio for Public Policy Analyt
 Create a new file `weekly-notes/week-XX-notes.qmd` for each week.
 
 ### Example Portfolio
-See what you're building toward: **[Dr. Delmelle's Sample Portfolio](https://ecdelmelle.github.io/MUSA-5080-instructor-portfolio/)**
+See what you're building toward: **[Dr. Delmelle's Sample Portfolio](https://ecdelmelle.github.io/MUSA-5080-instructor-portolio/)**
 
