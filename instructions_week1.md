@@ -60,7 +60,7 @@ This step makes your portfolio visible as a live website!
 3. **Configure Source**: 
    - Source: Select "Deploy from a branch"
    - Branch: Select "main" 
-   - Folder: Select "/ (root)"
+   - Folder: Select "/ docs"
 4. **Save**: Click "Save"
 5. **Wait**: GitHub will show a message that your site is being built (this takes 1-5 minutes)
 
@@ -116,7 +116,7 @@ Each week you'll:
 ### My website isn't showing up
 - **Wait longer**: GitHub Pages can take up to 10 minutes to build
 - **Check Actions tab**: Look for any red X marks indicating build failures
-- **Verify Pages settings**: Make sure you selected "main" branch and "/ (root)" folder
+- **Verify Pages settings**: Make sure you selected "main" branch and "/docs" folder
 
 ### I can't edit files
 - **Check permissions**: Make sure you're in YOUR repository, not the template
